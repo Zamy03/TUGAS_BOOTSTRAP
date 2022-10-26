@@ -1,0 +1,18 @@
+body {
+    padding-right: fixed;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: cyan;
+    background-attachment: fixed;
+}
+
+#about {
+    background-color: grey;
+    background-attachment: fixed;
+}
+
+#tutorial {
+    background-color: cyan;
+    background-attachment: fixed;
+}
